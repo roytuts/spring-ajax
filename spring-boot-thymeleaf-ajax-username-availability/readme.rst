@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/spring-boot-ajax-jquery-to-check-user-availability-instantly/
